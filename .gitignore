@@ -1,2 +1,6 @@
 venv/
 activate.sh
+.env
+*.pyc 
+__pycache__
+.vscode/

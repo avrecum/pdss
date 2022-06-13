@@ -1,0 +1,4 @@
+PUSH = "PUSH"
+POP = "POP"
+PEEK = "PEEK"
+SIZE = "SIZE"
