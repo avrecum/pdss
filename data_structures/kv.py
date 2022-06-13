@@ -18,7 +18,7 @@ class KV:
             return None
 
     def size(self):
-        return len(d)
+        return len(self.d)
 
     def remove(self, key):
         try:

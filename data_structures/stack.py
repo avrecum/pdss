@@ -27,4 +27,4 @@ class Stack:
             return None
 
     def size(self):
-        return len(l)
+        return len(self.l)
